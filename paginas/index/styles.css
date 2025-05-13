@@ -77,13 +77,13 @@ body, html {
     "wdth" 99.6;
     
     /* Efecto de desenfoque blanco en el fondo */
-    backdrop-filter: blur(20px);  /* Aplica un desenfoque al fondo */
-    -webkit-backdrop-filter: blur(20px);  /* Para soporte en Safari */
+    backdrop-filter: blur(40px);  /* Aplica un desenfoque al fondo */
+    -webkit-backdrop-filter: blur(40px);  /* Para soporte en Safari */
   }
 
   #header-bottom-flex {
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.329); /* Fondo blanco semi-transparente */
+    background-color: rgba(0, 0, 0, 0.77); /* Fondo blanco semi-transparente */
     color: rgb(255, 255, 255); /* Cambiar el color del texto a blanco */
     font-weight: bold; /* Poner el texto en negritas */
     text-align: center;
